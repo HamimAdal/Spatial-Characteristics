@@ -101,7 +101,7 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
 
 <table>
   <tr>
-    <td>Figure 3: Context-Driven Variables in Controlling Spatial Characteristics</td>
+    <td>Figure 3: Context-Driven Controlling of Spatial Characteristics</td>
   </tr>
   <tr>
     <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/context.jpg" width=800 height=400></td>
