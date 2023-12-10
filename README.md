@@ -44,12 +44,12 @@ In our proposed model:
 
 To assess the model’s utility and impact, we seek to answer the following evaluation queries-
 
-<b>1. How well do spatial characteristics allow reasoning about smart space interactions independently of any particular space?<</b>>
+<b>1. How well do spatial characteristics allow reasoning about smart space interactions independently of any particular space?</b>
 
 --In the current conventional settings, users perceive smart space as a group of devices that they control via personal devices (such as smartphones, smart watches, etc.) to obtain specific functionalities. Users visiting a new space find a different set of devices, with different interfaces to be learned, and different configurations to be set, which disrupts consistency in user experiences. When users deal with characteristics instead of devices, their experience in interacting with space remains consistent independent of any space. Whether it’s a smart home, workplace, or a friend’s house, the universality of the spatial characteristics model allows users to express the desired condition changes they expect from the space, without following any manuals, or learning new interfaces and control mechanisms of any device. To ensure proper response, the space only needs to be aware of the properties of the devices, the rest depends on finding the appropriate device settings. Thus, the spatial characteristics model allows users to interact with the space in the same manner regardless of specific devices present in an environment or shifting to a new one. This level of abstraction ensures that the user experience with different setups, or spaces remains uniform. The resulting consistency reduces the complexity in interaction methodology that the user has to face while shifting between spaces.  
 
 
-2. How does the way that the spatial characteristics model abstracts away specific device's advantages or disadvantages application users, device manufacturers, and researchers/developers?
+<b>2. How does the way that the spatial characteristics model abstracts away specific device's advantages or disadvantages application users, device manufacturers, and researchers/developers?</b>
 
 -- The spatial characteristics model reduces the cognitive load on the user, promising a high-level interaction scheme within the space. The elderly, less tech-savvy, and the customers who feel less motivated to embrace smart setups due to complex device installation and maintenance can be attracted to the spatial characteristics model and interact with the space they feel natural, and comfortable. 
 
