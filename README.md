@@ -10,6 +10,6 @@ The Design of a user-space interacting framework that works as a mediator betwee
     <td>Figure 1: Concept of Spatial Characteristics and the factors impacting them./td>
   </tr>
   <tr>
-    <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Spatial%20Characteristics/ConceptualDiagram.pdf" width=800 height=400></td>
+    <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/conceptual%20diagram.jpg" width=800 height=400></td>
   </tr>
 </table>
