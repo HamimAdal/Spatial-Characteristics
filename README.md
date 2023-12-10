@@ -40,7 +40,7 @@ In our proposed model:
 
 -- Exercising control over a spatial characteristic is centered on controlling the physical devices located in that space, including the physical sensors that monitor the state of the environment.  The latter are particularly important in the presence of uncontrollable factors (invisible sources and inaccessible devices) that can influence the space and when user requests span an interval of time or are relative to changing user location.  Figure 1 denotes such situations as the dynamics (user location and time) of user needs.
 
-**The Scope of Spatial Characteristic Model.**
+**A Qualitative Evaluation: The Scope of Spatial Characteristic Model.**
 
 To assess the model’s utility and impact, we seek to answer the following evaluation queries-
 
