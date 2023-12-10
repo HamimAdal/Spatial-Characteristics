@@ -59,7 +59,7 @@ To assess the model’s utility and impact, we seek to answer the following eval
 -- Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction frameworks, gaining further insights into user’s perceptions and expectations from a smart space.
 
 
-**Case Studies**
+**Case Studies.**
 
 Let’s consider two smart spaces- one at home and another in a corporate office. 
 
