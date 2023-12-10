@@ -1,6 +1,6 @@
 # Spatial Characteristics: A Novel User-space Interaction Framework in Smart Space.
 
-**Today's Smart World: Users control smart appliances through personal devices (e.g., virtual assistants in smartphones/smart displays) to acquire service.**
+**Today's Smart Home: Users control smart appliances through personal devices (e.g., virtual assistants in smartphones/smart displays) to acquire service.**
 
 In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. This type of interaction presents challenges such as:
 
