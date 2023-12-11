@@ -1,4 +1,4 @@
-# Spatial Characteristics: A Novel User-space Interactive Interface in Smart Space.
+# Spatial Characteristics: A user-space interactive interface to conduct interactions in Smart Space.
 
 **Today's Smart Home: Users control smart appliances through personal devices (e.g., virtual assistants in smartphones/smart displays) to acquire service.**
 
