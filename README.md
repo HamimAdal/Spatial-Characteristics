@@ -1,4 +1,4 @@
-# Spatial Characteristics: A Novel User-space Interaction Framework in Smart Space.
+# Spatial Characteristics: A Novel User-space Interaction Interface in Smart Space.
 
 **Today's Smart Home: Users control smart appliances through personal devices (e.g., virtual assistants in smartphones/smart displays) to acquire service.**
 
@@ -18,7 +18,7 @@ We focus on the category of interactions that engage with properties of the spac
 
 -- We envision that a significant portion of interactions with a smart space will occur at the level of spatial characteristics. Such interactions are commonly facilitated by the user's personal device (such as a smartphone, smartwatch, etc.), smart speaker (echo dot), smart display (echo show), etc. 
 
--- Under this framework, when a person wishes to read a newspaper, they would not attempt to control specific lights in the room. Instead, they would request a certain level of illumination at their location. This request could be fulfilled in various ways, depending on the location and context. For instance, on a sunny day at the breakfast table, smart glass and ambient lighting might be adjusted by the space to provide adequate illumination. Conversely, in a basement playroom, more lights might need to be activated by the space to achieve the desired result. 
+-- Under this interface, when a person wishes to read a newspaper, they would not attempt to control specific lights in the room. Instead, they would request a certain level of illumination at their location. This request could be fulfilled in various ways, depending on the location and context. For instance, on a sunny day at the breakfast table, smart glass and ambient lighting might be adjusted by the space to provide adequate illumination. Conversely, in a basement playroom, more lights might need to be activated by the space to achieve the desired result. 
 
 -- Regardless of the location- be it a home, office, hotel, or other setting---the user's request remains consistent with the same interface only caring about what they expect from the environment. It is the collective responsibility of the personal device and the smart space to deliver the requested outcome by choosing an appropriate set of devices with the correct device configurations, making the user request more natural and personalized without engaging them in the process.
 
@@ -56,7 +56,7 @@ In the current conventional settings, users perceive smart space as a group of d
 
 -- The algorithm developers can get clear insights into the key factors and resources necessary to formulate algorithms that can resolve complex equations, leading to optimal solutions. The software developers do not need to redesign the user interface every time a device is introduced, rather they need to make the devices recognizable to the space, keeping the user interface intact. 
 
--- Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction frameworks, gaining further insights into user’s perceptions and expectations from a smart space.
+-- Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction interface, gaining further insights into user’s perceptions and expectations from a smart space.
 
 <b>3. How does the spatial characteristics model promise a more adaptable and responsive smart space?</b>
 
