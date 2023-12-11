@@ -118,5 +118,7 @@ Let’s consider two smart spaces- one at home and another in a corporate office
 
 In the above instances, despite there being variations of devices and configurations across distinct spaces, the user request was clearly met. To run this process, the user only needs to be aware of the properties of the devices, the rest depends on finding the appropriate device settings. Thus, the spatial characteristics model can generalize and satisfy user requests based on the best available resources. This level of abstraction ensures that the user experience with different configurations, or space remains uniform. The resulting consistency reduces the complexity in interaction methodology that the user has to face while shifting between spaces.
 
+# Prototype.
 
+https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine
 
