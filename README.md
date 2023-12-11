@@ -108,9 +108,6 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
   </tr>
 </table>
 
-
-
-
 # Case Studies.
 
 Let’s consider two smart spaces- one at home and another in a corporate office. 
