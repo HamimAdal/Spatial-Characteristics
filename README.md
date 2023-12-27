@@ -117,8 +117,14 @@ https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engi
 
 **Platform: Unity Game Engine**
 
+# Simulation platform for evaluating Algorithms.
 
-# Challenges.#
+https://github.com/HamimAdal/Simulation-Unity/tree/main 
+
+**Platform: Unity Game Engine**
+
+
+# Challenges.
 
 The spatial characteristics concept produces the following new research insights that need to be investigated-
 
@@ -181,9 +187,6 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
   </tr>
 </table>
 
-# Simulation platform for evaluating Algorithms.
-
-https://github.com/HamimAdal/Simulation-Unity/tree/main (Platform: Unity Game Engine)
 
 # Usability Testing (Ongoing Work).**
 
