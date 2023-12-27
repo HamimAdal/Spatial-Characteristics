@@ -31,7 +31,7 @@ In the present smart world, virtual assistants such as Alexa, Siri, and Google h
 
 The current interactive interface lacks natural interaction methods making the user experience less personalized.
 
-**Impact of our Proposed Interface**
+**Impact of our Proposed Interface.**
 
 We do not propose to solve all these problems, at least not for now.  However, we do want to make progress towards allowing users to exploit the capabilities of smart spaces with a lot less effort and cognitive burden.  Our approach starts with a simple observation: the interactions with the smart spaces fall into two large categories.  First, it is often the case that users want and need to interface with specific devices and the features they provide.  The user may want to preheat the oven, check the baby monitor, or watch a movie on TV.  Second, there is also a category of interactions that should not require knowledge of any specific devices.  Selecting the temperature in a room or the music level are interactions that can be defined abstractly without reference to any specific devices.  Yes, today we may be accomplishing this by turning the dial on the smart thermostat or by telling Alexa: “volume up.”  But we do this only because it is expected of us to control things via reference to devices that we know.  What if the friend I visit changes the light source's name from a typical "bedroom lamp" to "Lonely Star"?  To make matters worse, what if the user request demands an aggregate response from multiple and varied devices?  Clearly, this is an area in which the user needs help the most and, for this reason, it is the core concern of our research.
 
