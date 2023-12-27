@@ -114,11 +114,7 @@ https://github.com/HamimAdal/Simulation-Unity/tree/main
 
 # Usability Testing (Ongoing Work).
 
-**Process.**
-
-**Feedback.**
-
-**Revisions.**
+**Process.** || **Feedback.** || **Revisions.**
 
 # A Qualitative Evaluation: The impact of the Spatial Characteristics Model.
 
