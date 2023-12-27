@@ -6,7 +6,7 @@ Spatial Characteristics: A user-space interactive interface to conduct interacti
 
 **Problem Statement.**
 
-In the current smart world, almost everything a user might desire in the home is probably on the market already. Unfortunately, managing the smart space is increasingly burdensome and complex. Setting up the devices and the means of controlling them is complicated; it often entails reliance on internet servers, even subscription services, an annoying list of apps, complex authentication processes, etc. The practical result is that users use only a small fraction of the available features and reach a saturation point in terms of the acquisition of new devices. This is the tyranny of the IoT technology as opposed to the joy everyone expected. If this happens to technology-savvy individuals, what hope is there to serve the community at large?
+In the current smart world, almost everything a user might desire in the home is on the market already. Unfortunately, managing the smart space is increasingly burdensome and complex. Setting up the devices and the means of controlling them is complicated; it often entails reliance on internet servers, even subscription services, an annoying list of apps, complex authentication processes, etc. The practical result is that users use only a small fraction of the available features and reach a saturation point in terms of the acquisition of new devices. This is the tyranny of the IoT technology as opposed to the joy everyone expected. If this happens to technology-savvy individuals, what hope is there to serve the community at large?
 
 **Objective.**
 
