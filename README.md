@@ -68,6 +68,16 @@ In our proposed model:
 
 -- Exercising control over a spatial characteristic is centered on controlling the physical devices located in that space, including the physical sensors that monitor the state of the environment.  The latter are particularly important in the presence of uncontrollable factors (invisible sources and inaccessible devices) that can influence the space and when user requests span an interval of time or are relative to changing user location.  Figure 1 denotes such situations as the dynamics (user location and time) of user needs.
 
+# Use Cases.
+
+Let’s consider two smart spaces- one at home and another in a corporate office. 
+
+-- When users work remotely at home, their desired level of illumination can be met by the space by dimming light fixtures that surround their personal workstations. Over time, after a successive occurrence of interactions, the space can also learn and recognize the user’s preferred light fixtures and engage them in the process of delivering a request. However, when the user is working in an office, the preferred level of illumination may be served by exploiting the light fixture mounted above their personal desk without causing discomfort to other colleagues. 
+
+-- Similarly, for inhabitants of metropolitan areas where there are high-rise apartments, the space might exploit thermostats, floor heating systems, or light fixtures to provide ambient temperature or illumination. Smart blinds/windows are less effective because dense construction in cities can limit sunlight and compromise the air quality. But on vacation, when a user makes the same request in an Airbnb on lakeside, or in beachfront condos, the space might involve motorized shades for a gentle gleam of sunlight or utilize smart windows to allow a natural breeze.     
+
+In the above instances, despite there being variations of devices and configurations across distinct spaces, the user request was clearly met. To run this process, the space only needs to be aware of the properties of the devices, the rest depends on finding the appropriate device settings. Thus, the spatial characteristics model can generalize and satisfy user requests based on the best available resources. This level of abstraction ensures that the user experience with different configurations, or space remains uniform. The resulting consistency reduces the complexity in interaction methodology that the user has to face while shifting between spaces.
+
 # A Qualitative Evaluation: The Scope of Spatial Characteristic Model.
 
 To assess the model’s utility and impact, we seek to answer the following evaluation queries-
@@ -136,15 +146,7 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
   </tr>
 </table>
 
-# Case Studies.
 
-Let’s consider two smart spaces- one at home and another in a corporate office. 
-
--- When users work remotely at home, their desired level of illumination can be met by the space by dimming light fixtures that surround their personal workstations. Over time, after a successive occurrence of interactions, the space can also learn and recognize the user’s preferred light fixtures and engage them in the process of delivering a request. However, when the user is working in an office, the preferred level of illumination may be served by exploiting the light fixture mounted above their personal desk without causing discomfort to other colleagues. 
-
--- Similarly, for inhabitants of metropolitan areas where there are high-rise apartments, the space might exploit thermostats, floor heating systems, or light fixtures to provide ambient temperature or illumination. Smart blinds/windows are less effective because dense construction in cities can limit sunlight and compromise the air quality. But on vacation, when a user makes the same request in an Airbnb on lakeside, or in beachfront condos, the space might involve motorized shades for a gentle gleam of sunlight or utilize smart windows to allow a natural breeze.     
-
-In the above instances, despite there being variations of devices and configurations across distinct spaces, the user request was clearly met. To run this process, the space only needs to be aware of the properties of the devices, the rest depends on finding the appropriate device settings. Thus, the spatial characteristics model can generalize and satisfy user requests based on the best available resources. This level of abstraction ensures that the user experience with different configurations, or space remains uniform. The resulting consistency reduces the complexity in interaction methodology that the user has to face while shifting between spaces.
 
 # Demonstration.
 
