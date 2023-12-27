@@ -18,7 +18,7 @@ In current smart world, the way user interactis with smart space is ‘’device
 
 # User Research.
 
-**Methodologies.**
+**Current Methodologies.**
 
 In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. This type of interaction presents challenges.
 
