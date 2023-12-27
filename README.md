@@ -88,13 +88,13 @@ In the current conventional settings, users perceive smart space as a group of d
 
 <b>2. How does the way that the spatial characteristics model abstracts away specific devices advantages or disadvantages application users, device manufacturers, and researchers/developers?</b>
 
--- **Apllications Users** The spatial characteristics model reduces the cognitive load on the user, promising a high-level interaction scheme within the space. The elderly, less tech-savvy, and the customers who feel less motivated to embrace smart setups due to complex device installation and maintenance can be attracted to the spatial characteristics model and interact with the space they feel natural, and comfortable. 
+-- **Apllications Users.** The spatial characteristics model reduces the cognitive load on the user, promising a high-level interaction scheme within the space. The elderly, less tech-savvy, and the customers who feel less motivated to embrace smart setups due to complex device installation and maintenance can be attracted to the spatial characteristics model and interact with the space they feel natural, and comfortable. 
 
--- **Device Manufacturers** The spatial characteristics model is also less sensitive to specific brands, and the evolution (advancement in technology) of devices. As long as a device can affect a property, the space can engage it to deliver an outcome. A device’s ability to influence the condition of the space takes more precedence over a brand, or technology, promoting a homogeneous device ecosystem among manufacturers. 
+-- **Device Manufacturer.s** The spatial characteristics model is also less sensitive to specific brands, and the evolution (advancement in technology) of devices. As long as a device can affect a property, the space can engage it to deliver an outcome. A device’s ability to influence the condition of the space takes more precedence over a brand, or technology, promoting a homogeneous device ecosystem among manufacturers. 
 
--- **Developers** The algorithm developers can get clear insights into the key factors and resources necessary to formulate algorithms that can resolve complex equations, leading to optimal solutions. The software developers do not need to redesign the user interface every time a device is introduced, rather they need to make the devices recognizable to the space, keeping the user interface intact. 
+-- **Developers.** The algorithm developers can get clear insights into the key factors and resources necessary to formulate algorithms that can resolve complex equations, leading to optimal solutions. The software developers do not need to redesign the user interface every time a device is introduced, rather they need to make the devices recognizable to the space, keeping the user interface intact. 
 
--- **Researchers** Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction interface, gaining further insights into user’s perceptions and expectations from a smart space.
+-- **Researchers.** Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction interface, gaining further insights into user’s perceptions and expectations from a smart space.
 
 
 # Technical Details.
