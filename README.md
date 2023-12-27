@@ -100,7 +100,9 @@ In the current conventional settings, users perceive smart space as a group of d
 # Technical Details.
 
 **Software/Microcontroller**: Android Studio, Raspberry-Pi, Unity Game Engine
+
 **Programming**: Python, Java, C#
+
 **Library Tools**: OpenCV, NumPy, Pandas, Matplotlib, 
 
 # Prototype.
