@@ -99,7 +99,7 @@ https://github.com/HamimAdal/Middleware_Space_Broker
 
 **Platform:** Android Studio, Raspberry-Pi
 
-# Demonstration.
+# Demonstration (User-Experience Visualization).
 
 https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine 
 
