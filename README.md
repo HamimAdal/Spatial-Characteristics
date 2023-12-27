@@ -138,9 +138,9 @@ In the current conventional settings, users perceive smart space as a group of d
 
 The spatial characteristics concept produces the following new research insights that need to be investigated-
 
-1. Device Characterisation (properties of devices and which spatial characteristics they influence)
+1. Device Characterisation (exploring properties of devices and which spatial characteristics they influence)
 2. Redefining Spatial Context and promoting sensor-augmented smart space.
-3. User-Space Collaboration in the absence of sensors
+3. User-Space Collaboration in the absence of sensors.
 4. The effects of Spatial Geometry in Smart Space.
 
 (each of the research problems is being investigated by our team, for confidentiality reasons they are not presented in details here.)
