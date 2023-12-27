@@ -114,7 +114,7 @@ https://github.com/HamimAdal/Simulation-Unity/tree/main
 
 **Platform: Unity Game Engine**
 
-# Usability Testing (Ongoing Work).**
+# Usability Testing (Ongoing Work).
 
 **Process.**
 
