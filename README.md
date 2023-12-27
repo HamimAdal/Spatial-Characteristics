@@ -143,7 +143,7 @@ The spatial characteristics concept produces the following new research insights
 3. User-Space Collaboration in the absence of sensors.
 4. The effects of Spatial Geometry in Smart Space.
 
-(each of the research problems is being investigated by our team, for confidentiality reasons they are not presented in details here.)
+(each of the research problems is being investigated by our team, for confidential reasons they are not presented in detail here.)
 
 # Learnings: The Scope of Spatial Characteristic Model.
 
