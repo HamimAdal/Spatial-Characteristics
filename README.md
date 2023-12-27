@@ -21,9 +21,11 @@ In the current smart world, almost everything a user might desire in the home is
 
 **Current Methodologies.**
 
-In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. The user controls individual devices (e.g., “Alexa, set the brightness of the bedroom lamp to level 5”), they do not interact with properties of the space (e.g., “Alexa, provide me illumination for reading a book on my bedroom desk”). This type of interaction presents challenges.
+In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. The user controls individual devices (e.g., “Alexa, set the brightness of the bedroom lamp to level 5”), they do not interact with properties of the space (e.g., “Alexa, provide me illumination for reading a book on my bedroom desk”). 
 
 **Key Challenges.**
+
+This type of interaction where users refer to individual devices presents challenges:
 
 -- Users need to have prior knowledge of the device’s type, name, and location to utilize a service at a specific location. With the rise in the number of smart devices, it is becoming increasingly difficult to remember and refer to each device by its name. 
 
