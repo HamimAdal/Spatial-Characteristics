@@ -33,6 +33,7 @@ The practical result is that users use only a small fraction of the available fe
 # Design Process.
 
 **Design Principles**
+
 We focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
 
 **The Concept of Spatial Characteristics: Users interact with the properties of the space**
