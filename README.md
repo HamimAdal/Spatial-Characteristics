@@ -10,31 +10,36 @@ Facilitate seamless interactions in smart space where users are not concerned wi
 
 **Target Audience.**
 
-Users living in smart infrastructures such as smart home, smart office, smart hotel, etc.
+Users living in smart infrastructures such as smart homes, smart offices, smart hotels, etc.
 
 **Problem Statement.**
 
-In current smart world, the way user interactis with smart space is ‘’device-centric”, not “space centric”. The user controls individual devices (e.g., “Alexa, set the brightness of the bedroom lamp to level 5”), they do not interact with properties of the space (e.g., “Alexa, provide me illumination for reading a book on my bedroom desk”). The current interactive interface lacks natural interaction methods making the user request less personalized.
+In the current smart world, almost everything a user might desire in the home is probably on the market already. Unfortunately, managing the smart space is increasingly burdensome and complex. Setting up the devices and the means of controlling them is complicated; it often entails reliance on internet servers, even subscription services, an annoying list of apps, complex authentication processes, etc. The practical result is that users use only a small fraction of the available features and reach a saturation point in terms of the acquisition of new devices. This is the tyranny of the IoT technology as opposed to the joy everyone expected. If this happens to technology-savvy individuals, what hope is there to serve the community at large?
+
 
 # User Research.
 
 **Current Methodologies.**
 
-In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. This type of interaction presents challenges.
+In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. The user controls individual devices (e.g., “Alexa, set the brightness of the bedroom lamp to level 5”), they do not interact with properties of the space (e.g., “Alexa, provide me illumination for reading a book on my bedroom desk”). This type of interaction presents challenges.
 
-**Key Findings.**
+**Key Challenges.**
 
 -- Users need to have prior knowledge of the device’s type, name, and location to utilize a service at a specific location. With the rise in the number of smart devices, it is becoming increasingly difficult to remember and refer to each device by its name. 
 
 -- Further challenges surface when users, accustomed to their home environment, find themselves in a new setting and aim to interact with the space similarly. Alice, for instance, might be well-versed with the location of devices in their homes, but the chances of accurately pinpointing the placement of analogous devices in a smart hotel room are less likely, and burdensome. 
 
-The practical result is that users use only a small fraction of the available features and reach a saturation point in terms of the acquisition of new devices.
+The current interactive interface lacks natural interaction methods making the user experience less personalized.
+
+**Impact on our Proposed Design**
+
+We do not propose to solve all these problems, at least not for now.  However, we do want to make progress towards allowing users to exploit the capabilities of smart spaces with a lot less effort and cognitive burden.  Our approach starts with a simple observation: the interactions with the smart spaces fall into two large categories.  First, it is often the case that users want and need to interface with specific devices and the features they provide.  The user may want to preheat the oven, check the baby monitor, or watch a movie on TV.  Second, there is also a category of interactions that should not require knowledge of any specific devices.  Selecting the temperature in a room or the music level are interactions that can be defined abstractly without reference to any specific devices.  Yes, today we may be accomplishing this by turning the dial on the smart thermostat or by telling Alexa: “volume up.”  But we do this only because it is expected of us to control things via reference to devices that we know.  What if the friend I visit changes the light source's name from a typical "bedroom lamp" to "Lonely Star"?  To make matters worse, what if the user request demands an aggregate response from multiple and varied devices?  Clearly, this is an area in which the user needs help the most and, for this reason, it is the core concern of our research.
 
 # Design Process.
 
 **Design Principles.**
 
-We focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
+We want to propose an interactive user-space interface that enables the user to engage in personalized interactions with smart spaces without any reference to or knowledge of the devices present at the location the user might happen to visit.  As such, we focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
 
 **The Concept of Spatial Characteristics: Users interact with the properties of the space.**
 
