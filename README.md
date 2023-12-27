@@ -84,7 +84,7 @@ By recognizing the potential impacts (conflict and joint optimization) that indi
   </tr>
 </table>
 
-<b>3. How does the Spatial Characteristics model allow the space to leverage various contexts to effectively achieve user requests?</b>
+<b>3. How does the Spatial Characteristics model redefine and broaden the domain of spatial context and offer solutions to effectively achieve user requests?</b>
 
 Depending on spatial contexts, the user can rely on the space to predict an optimized solution. As of now, operating smart devices based on context is not an unfamiliar practice in today’s IoT ecosystem. Autonomous control of lights and HVAC based on human presence is common in smart spaces. However, the scope of exercising this trend remains confined to a small number of devices and specific contexts. The figure 3 illustrates how the Spatial Characteristics model allows the space to go beyond illumination (lights) and temperature (HVACs) and explore more opportunities with a wider range of characteristics and contextual scenarios. For instance:
 
