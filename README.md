@@ -107,11 +107,16 @@ In the current conventional settings, users perceive smart space as a group of d
 
 # Prototype.
 
-https://github.com/HamimAdal/Middleware_Space_Broker (Platform: Android Studio, Raspberry-Pi)
+https://github.com/HamimAdal/Middleware_Space_Broker 
+
+**Platform:** Android Studio, Raspberry-Pi
 
 # Demonstration.
 
-https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine (Platform: Unity Game Engine)
+https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine 
+
+**Platform: Unity Game Engine**
+
 
 # Reflectionan and Learning.#
 
