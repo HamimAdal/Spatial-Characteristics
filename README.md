@@ -1,28 +1,28 @@
 # Project Overview.
 
-**Title**
+**Title.**
 
 Spatial Characteristics: A user-space interactive interface to conduct interactions in Smart Space.
 
-**Objective**
+**Objective.**
 
 Facilitate seamless interactions in smart space where users are not concerned with the specific devices engaged in fulfilling their requests - a responsibility shouldered by the smart space without involving users in the process.
 
-**Target Audience**
+**Target Audience.**
 
 Users living in smart infrastructures such as smart home, smart office, smart hotel, etc.
 
-**Problem Statement**
+**Problem Statement.**
 
 In current smart world, the way user interactis with smart space is ‘’device-centric”, not “space centric”. The user controls individual devices (e.g., “Alexa, set the brightness of the bedroom lamp to level 5”), they do not interact with properties of the space (e.g., “Alexa, provide me illumination for reading a book on my bedroom desk”). The current interactive interface lacks natural interaction methods making the user request less personalized.
 
 # User Research.
 
-**Methodologies**
+**Methodologies.**
 
 In the present smart world, virtual assistants such as Alexa, Siri, and Google handle user requests with reference to specific devices within the smart space. For instance, a typical interaction might involve a user instructing Alexa to adjust the “reading room lamp” to a certain level or modify the volume of the “bedroom speaker”. This type of interaction presents challenges.
 
-**Key Findings**
+**Key Findings.**
 
 -- Users need to have prior knowledge of the device’s type, name, and location to utilize a service at a specific location. With the rise in the number of smart devices, it is becoming increasingly difficult to remember and refer to each device by its name. 
 
@@ -32,23 +32,23 @@ The practical result is that users use only a small fraction of the available fe
 
 # Design Process.
 
-**Design Principles**
+**Design Principles.**
 
 We focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
 
-**The Concept of Spatial Characteristics: Users interact with the properties of the space**
+**The Concept of Spatial Characteristics: Users interact with the properties of the space.**
 
 -- The starting point is the concept of spatial characteristics. A spatial characteristic can be defined as a perceivable property of a space that users can examine and control. Examples of spatial characteristics include temperature, illumination, sound level, security, and privacy, each of which can be regulated by specialized devices within the space. 
 
 -- We envision that a significant portion of interactions with a smart space will occur at the level of spatial characteristics. Such interactions are commonly facilitated by the user's personal device (such as a smartphone, smartwatch, etc.), smart speaker (echo dot), smart display (echo show), etc. 
 
-**Key Interactions**
+**Key Interactions.**
 
 -- Under this interface, when a person wishes to read a newspaper, they would not attempt to control specific lights in the room. Instead, they would request a certain level of illumination at their location. This request could be fulfilled in various ways, depending on the location and context. For instance, on a sunny day at the breakfast table, smart glass and ambient lighting might be adjusted by the space to provide adequate illumination. Conversely, in a basement playroom, more lights might need to be activated by the space to achieve the desired result. 
 
 -- Regardless of the location- be it a home, office, hotel, or other setting---the user's request remains consistent with the same interface only caring about what they expect from the environment. It is the collective responsibility of the personal device and the smart space to deliver the requested outcome by choosing an appropriate set of devices with the correct device configurations, making the user request more natural and personalized without engaging them in the process.
 
-**Interactions Mapping**
+**Interactions Mapping.**
 
 Figure 1 illustrates the concept of the Spatial Characteristics model and the factors affecting them:
 
@@ -111,11 +111,11 @@ https://github.com/HamimAdal/Middleware_Space_Broker (Platform: Android Studio, 
 
 https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engine (Platform: Unity Game Engine)
 
-# Reflectionan and Learning#
+# Reflectionan and Learning.#
 
-**Challenges**
+**Challenges.**
 
-**Learnings**
+**Learnings.**
 
 <b>1. How does the spatial characteristics model promise a more adaptable and responsive smart space?</b>
 
@@ -171,9 +171,9 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
 
 https://github.com/HamimAdal/Simulation-Unity/tree/main (Platform: Unity Game Engine)
 
-# Usability Testing (Ongoing Work)**
+# Usability Testing (Ongoing Work).**
 
-**Process**
-**Feedback**
-**Revisions**
+**Process.**
+**Feedback.**
+**Revisions.**
 
