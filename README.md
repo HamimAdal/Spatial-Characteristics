@@ -6,7 +6,7 @@ Spatial Characteristics: A user-space interactive interface to conduct interacti
 
 **Objective.**
 
-Facilitate seamless interactions in smart space where users are not concerned with the specific devices engaged in fulfilling their requests - a responsibility shouldered by the smart space without involving users in the process.
+Enable the user to engage in personalized interactions with smart spaces without any reference to or knowledge of the devices present at the location the user might happen to visit. This interaction method facilitates seamless interactions in smart space where users are not concerned with the specific devices engaged in fulfilling their requests - a responsibility shouldered by the smart space only.
 
 **Target Audience.**
 
@@ -39,7 +39,7 @@ We do not propose to solve all these problems, at least not for now.  However, w
 
 **Design Principles.**
 
-We want to propose an interactive user-space interface that enables the user to engage in personalized interactions with smart spaces without any reference to or knowledge of the devices present at the location the user might happen to visit.  As such, we focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
+We focus on the category of interactions that engage with properties of the space that directly impact the user experience, rather than on device-specific features. 
 
 **The Concept of Spatial Characteristics: Users interact with the properties of the space.**
 
