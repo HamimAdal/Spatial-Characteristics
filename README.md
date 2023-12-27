@@ -108,7 +108,7 @@ https://github.com/HamimAdal/Demonstration-Spatial-Characteristics-in-Unity-Engi
 
 **Platform: Unity Game Engine**
 
-# Simulation platform for evaluating Algorithms.
+# Simulation platform for evaluating Algorithms based on the Spatial Characteristic Model.
 
 https://github.com/HamimAdal/Simulation-Unity/tree/main 
 
