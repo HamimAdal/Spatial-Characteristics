@@ -135,7 +135,7 @@ The spatial characteristics concept produces the following new research insights
 
 (each of the research problems is being investigated by our team, for confidentiality reasons they are not presented in detail here.)
 
-# Learnings: The Scope of Spatial Characteristic Model#
+# Learnings: The Scope of Spatial Characteristic Model
 
 <b> The spatial characteristics model promises a more adaptable and responsive smart space offering joint optimization and detecting possible conflicts while controlling characteristics.</b>
 
