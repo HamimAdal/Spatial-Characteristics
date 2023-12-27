@@ -134,7 +134,7 @@ In the current conventional settings, users perceive smart space as a group of d
 
 -- **Researchers.** Finally, the model also provides new opportunities for researchers to study properties of the space, and design high-level user-space interaction schemes. This leads to investigating more intuitive, and personalized user interaction interface, gaining further insights into user’s perceptions and expectations from a smart space.
 
-# Challenges Surfaced.
+# Challenges Surfaced (Identifying Requirements for Practical Deployments).
 
 The spatial characteristics concept produces the following new research insights that need to be investigated-
 
