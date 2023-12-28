@@ -173,9 +173,20 @@ While there are opportunities for joint optimization, the spatial characteristic
 By recognizing the potential impacts (conflict and joint optimization) that individual devices may have on the environment, the Spatial Characteristic model can facilitate the development of a more adaptable and responsive IoT architecture for the user. 
 
 
-<b> 2. The Spatial Characteristics model redefines and broadens the domain of spatial context and offers solutions to effectively achieve user requests</b>
+<b> 2. The Spatial Characteristics model redefines and broadens the domain of spatial context and offers automated solutions to a larger range of spatial characteristics</b>
 
-Depending on spatial contexts, the user can rely on the space to predict an optimized solution. As of now, operating smart devices based on context is not an unfamiliar practice in today’s IoT ecosystem. Autonomous control of lights and HVAC based on human presence is common in smart spaces. However, the scope of exercising this trend remains confined to a small number of devices and specific contexts. The figure 3 illustrates how the Spatial Characteristics model allows the space to go beyond illumination (lights) and temperature (HVACs) and explore more opportunities with a wider range of characteristics and contextual scenarios. For instance:
+Depending on spatial contexts, the user can rely on the space to predict an optimized solution. As of now, operating smart devices based on context is not an unfamiliar practice in today’s IoT ecosystem. Autonomous control of lights and HVAC based on human presence is common in smart spaces. However, the scope of exercising this trend remains confined to a small number of devices and specific contexts. The figure 3 illustrates how the Spatial Characteristics model allows the space to go beyond illumination (lights) and temperature (HVACs) and explore more opportunities with a wider range of characteristics and contextual scenarios. 
+
+<table>
+  <tr>
+    <td>Figure 3: Context-Driven Controlling of Spatial Characteristics</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/context.jpg" width=800 height=400></td>
+  </tr>
+</table>
+
+For instance:
 
 -- Under the characteristic "Floor-Cleaning", the space can adjust the vacuum cleaner's settings in accordance with the type of floor surface, applying a faster speed on carpets and a gentler one on hardwood floors. 
 
@@ -188,14 +199,6 @@ Depending on spatial contexts, the user can rely on the space to predict an opti
 -- Lastly, the water flow rate during a shower can also be adjusted based on the reservation status, optimizing water usage.
 
 
-<table>
-  <tr>
-    <td>Figure 3: Context-Driven Controlling of Spatial Characteristics</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/context.jpg" width=800 height=400></td>
-  </tr>
-</table>
 
 
 
