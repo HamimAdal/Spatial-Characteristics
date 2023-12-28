@@ -145,7 +145,7 @@ The spatial characteristics concept produces the following new research insights
 
 # Learnings: The Scope of Spatial Characteristic Model.
 
-<b> The spatial characteristics model promises a more adaptable and responsive smart space offering joint optimization and detecting possible conflicts while controlling characteristics.</b>
+<b> The spatial characteristics model promises a more adaptable and responsive smart space by offering joint optimization and detecting possible conflicts while controlling characteristics.</b>
 
 Figure 2 provides a visual representation of how the Spatial Characteristics Model can be realized through interconnected smart devices to foster a more adaptable and responsive smart space for the user. A crucial determinant of this adaptability is the ability of a space to discern the potential impacts of interconnected smart devices on the properties of the space, which can be supported by the Spatial Characteristics model. The model can help space recognize mutual dependencies of spatial Characteristics stemming from the properties of the smart devices. Below are some examples of how users can benefit from joint optimization offered by the model- 
 
