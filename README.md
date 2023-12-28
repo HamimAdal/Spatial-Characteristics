@@ -173,7 +173,7 @@ While there are opportunities for joint optimization, the spatial characteristic
 By recognizing the potential impacts (conflict and joint optimization) that individual devices may have on the environment, the Spatial Characteristic model can facilitate the development of a more adaptable and responsive IoT architecture for the user. 
 
 
-<b> 2. The Spatial Characteristics model redefines and broadens the domain of spatial context and offers automated solutions to a larger range of spatial characteristics</b>
+<b> 2. The Spatial Characteristics model redefines and broadens the domain of spatial context and offers automated solutions to a larger range of spatial characteristics; it also promotes a sensor-augmented smart space</b>
 
 As of now, operating smart devices based on context is not an unfamiliar practice in today’s IoT ecosystem. Autonomous control of lights and HVAC based on human presence is common in smart spaces. However, the scope of exercising this trend remains confined to a small number of devices and specific contexts. The figure 3 illustrates how the Spatial Characteristics model allows the space to go beyond illumination (lights) and temperature (HVACs) and explore more opportunities with a wider range of characteristics and contextual scenarios. 
 
@@ -199,7 +199,7 @@ For instance:
 -- Lastly, the water flow rate during a shower can also be adjusted based on the reservation status, optimizing water usage.
 
 
-Depending on spatial contexts, the user can rely on the space to predict optimized solutions for different characteristics. The determination of a specific context is dependent on proper sensing which also promotes a sensor-augmented smart space. 
+The user can rely on the space to predict optimized solutions for different characteristics based on spatial contexts. The determination of a specific context is heavily dependent on proper sensing of environmental circumstances promoting a sensor-augmented smart space. 
 
 
 
