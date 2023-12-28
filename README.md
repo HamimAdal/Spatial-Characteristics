@@ -199,7 +199,7 @@ For instance:
 -- Lastly, the water flow rate during a shower can also be adjusted based on the reservation status, optimizing water usage.
 
 
-Depending on broader spatial contexts, the user can rely on the space to predict optimized solutions for different characteristics. This also promotes a sensor-augmented smart space. 
+Depending on spatial contexts, the user can rely on the space to predict optimized solutions for different characteristics. The determination of a specific context is dependent on proper sensing which also promotes a sensor-augmented smart space. 
 
 
 
