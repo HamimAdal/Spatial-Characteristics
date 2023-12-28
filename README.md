@@ -161,8 +161,6 @@ While there are opportunities for joint optimization, the spatial characteristic
 
 -- Similarly, the smoke detector's activation due to smoke or cooking fumes may cause the air purifier to enhance air circulation, inadvertently exacerbating the situation by spreading the smoke. 
 
-By recognizing the potential impacts (conflict and joint optimization) that individual devices may have on the environment, the Spatial Characteristic model can facilitate the development of a more adaptable and responsive IoT architecture for the user. 
-
 <table>
   <tr>
     <td>Figure 2: Recognizing Mutual Dependencies of Spatial Characteristics Stemming from Device Characterization.</td>
@@ -171,6 +169,9 @@ By recognizing the potential impacts (conflict and joint optimization) that indi
     <td><img src="https://github.com/HamimAdal/Spatial-Characteristics/blob/main/Figures/deviceCharacterization.jpg" width=800 height=400></td>
   </tr>
 </table>
+
+By recognizing the potential impacts (conflict and joint optimization) that individual devices may have on the environment, the Spatial Characteristic model can facilitate the development of a more adaptable and responsive IoT architecture for the user. 
+
 
 <b> --The Spatial Characteristics model redefines and broadens the domain of spatial context and offers solutions to effectively achieve user requests</b>
 
