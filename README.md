@@ -145,7 +145,7 @@ The spatial characteristics concept produces the following new research insights
 
 # Learnings: The Scope of Spatial Characteristic Model.
 
-<b> The spatial characteristics model promises a more adaptable and responsive smart space by offering joint optimization and realizing possible conflicts from device characterizations (properties of devices and the characteristics they affect).</b>
+<b> --The spatial characteristics model promises a more adaptable and responsive smart space by offering joint optimization and realizing possible conflicts from device characterizations (properties of devices and the characteristics they affect).</b>
 
 Figure 2 provides a visual representation of how the Spatial Characteristics Model can be realized through interconnected smart devices to foster a more adaptable and responsive smart space for the user. A crucial determinant of this adaptability is the ability of a space to discern the potential impacts of interconnected smart devices on the properties of the space, which can be supported by the Spatial Characteristics model. The model can help space recognize mutual dependencies of spatial Characteristics stemming from the properties of the smart devices. Below are some examples of how users can benefit from joint optimization offered by the model- 
 
@@ -158,6 +158,7 @@ Figure 2 provides a visual representation of how the Spatial Characteristics Mod
 While there are opportunities for joint optimization, the spatial characteristics model can also recognize potential conflicts between multiple characteristics. For instance- 
 
 -- The utilization of smart windows to address illumination queries can be commendable due to its energy-saving benefits, except when it conflicts with the user's privacy concerns. 
+
 -- Similarly, the smoke detector's activation due to smoke or cooking fumes may cause the air purifier to enhance air circulation, inadvertently exacerbating the situation by spreading the smoke. 
 
 By recognizing the potential impacts (conflict and joint optimization) that individual devices may have on the environment, the Spatial Characteristic model can facilitate the development of a more adaptable and responsive IoT architecture for the user. 
@@ -171,7 +172,7 @@ By recognizing the potential impacts (conflict and joint optimization) that indi
   </tr>
 </table>
 
-<b> The Spatial Characteristics model redefines and broadens the domain of spatial context and offer solutions to effectively achieve user requests</b>
+<b> --The Spatial Characteristics model redefines and broadens the domain of spatial context and offers solutions to effectively achieve user requests</b>
 
 Depending on spatial contexts, the user can rely on the space to predict an optimized solution. As of now, operating smart devices based on context is not an unfamiliar practice in today’s IoT ecosystem. Autonomous control of lights and HVAC based on human presence is common in smart spaces. However, the scope of exercising this trend remains confined to a small number of devices and specific contexts. The figure 3 illustrates how the Spatial Characteristics model allows the space to go beyond illumination (lights) and temperature (HVACs) and explore more opportunities with a wider range of characteristics and contextual scenarios. For instance:
 
